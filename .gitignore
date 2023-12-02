@@ -1,3 +1,4 @@
+*.jpg
 *.ckpt
 *.txt
 !requirements.txt
