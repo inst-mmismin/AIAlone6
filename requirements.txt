@@ -1,0 +1,4 @@
+jupyer 
+opencv-python 
+Pillow==9.4.0
+matplotlib==3.7.2
